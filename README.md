@@ -1,15 +1,20 @@
-Welcome to your new dbt project!
+🚀 Pipeline de Dados com DBT Cloud, AWS e Redshift
+Este projeto implementa um pipeline de dados utilizando DBT Cloud, AWS e Redshift para transformar e organizar os dados de forma eficiente.
 
-### Using the starter project
+🔹 Tecnologias Utilizadas
+DBT Cloud: Orquestração e modelagem de dados.
 
-Try running the following commands:
-- dbt run
-- dbt test
+AWS: Infraestrutura em nuvem para armazenamento e processamento.
 
+Amazon Redshift: Data warehouse utilizado para consultas analíticas escaláveis.
 
-### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [dbt community](https://getdbt.com/community) to learn from other analytics engineers
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+🔹 Visão Geral
+Ingestão de Dados: Os dados são carregados no Amazon Redshift.
+
+Transformação com DBT: Criação do ETL utilizando linguagem SQL.
+
+Automação: O fluxo é automatizado dentro do DBT Cloud, garantindo eficiência e rastreabilidade.
+
+Resultados: Os dados transformados estão prontos para consumo no redshift onde pose ser realizadas análises e plugados em qualuqer dashboards.
+
+Este projeto demonstra boas práticas de engenharia de dados para processamento e análise escalável.
