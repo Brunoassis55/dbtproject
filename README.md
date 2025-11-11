@@ -1,4 +1,4 @@
-🚀 Pipeline de Dados com DBT Cloud, AWS e Redshift
+Pipeline de Dados com DBT Cloud, AWS e Redshift
 Este projeto implementa um pipeline de dados utilizando DBT Cloud, AWS e Redshift para transformar e organizar os dados de forma eficiente.
 
 🔹 Tecnologias Utilizadas
